@@ -1,2 +1,3 @@
-# Game-Theory
-Contains materials related to my Game Theory Project and other Game Theory related materials
+# Modelling Ecological Populations : 
+N player Hawk-Dove Game; a Reinforcement Learning approach
+
