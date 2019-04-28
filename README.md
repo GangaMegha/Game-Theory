@@ -13,3 +13,5 @@ Contains materials related to my Game Theory Project and other Game Theory relat
 
 ### Papers : Hawk-Dove Game
 * Essam EL-Seidy. “On the Behavior of Strategies in Hawk-DoveGame”. In: (2016), pp. 1–8.doi:10.1007/978-3-319-16999-6_1220-1.url:https://doi.org/10.5923/j.jgt.20160501.02..
+
+* Charles C. Cowden. "Game Theory, Evolutionary Stable Strategies and the Evolution of Biological Interactions". (2012) : https://www.nature.com/scitable/knowledge/library/game-theory-evolutionary-stable-strategies-and-the-25953132
